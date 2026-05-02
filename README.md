@@ -151,7 +151,7 @@ This project showcases a modern data engineering workflow combining:
 
 ## 👨‍💻 Author
 
-Patrick
+Patrick Amann 
 MSc in Artificial Intelligence & IT Security
 Focus: AI, Data Engineering, Privacy-Preserving Systems
 
